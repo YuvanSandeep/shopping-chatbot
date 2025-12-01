@@ -1,0 +1,7 @@
+name = input ("What is your name?")
+age = int(input("What is your age?"))
+hobbies = input ("What hobbies do you have?")
+fav_col = input ("What is your favourite colour?")
+fav_song = input ("What is your favourite song?")
+fav_movie = input ("What is your favourite movie?")
+print (F"Your name is {name}, aged {age} . Your favourite hobby/hobbies is/are {hobbies} and your favourite colour is {fav_col}.Also, your favourite song is {fav_song} and your favourite movie is {fav_movie}.")
